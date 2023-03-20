@@ -1,5 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Ma+Shan+Zheng&family=Rubik+Gemstones&display=swap');
 .App {
-  text-align: center;
+  min-height: 100vh;
+  background-image: url('https://img.freepik.com/free-vector/hand-drawn-minimal-background_23-2149017896.jpg?w=900&t=st=1679329849~exp=1679330449~hmac=a88a5f44f590812e119938189deed7427806181404c54397823701b247c73347');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position:center;
 }
 
 .App-logo {
