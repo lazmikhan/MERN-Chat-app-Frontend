@@ -59,7 +59,7 @@ const SignUp = () => {
                   }></Input>
                 </FormControl>
                     <Box  display={'flex'} justifyContent='center'>
-                    <Button onClick={handleSubmit} textColor={'#1fa595'} backgroundColor={'white'} type='submit' margin={'20px'}>Sign Up</Button>
+                    <Button  fontFamily='Lobster'  onClick={handleSubmit} textColor={'#1fa595'} backgroundColor={'white'} type='submit' margin={'20px'}>Sign Up</Button>
                     </Box>
                    
             

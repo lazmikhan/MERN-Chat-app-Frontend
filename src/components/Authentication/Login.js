@@ -33,7 +33,7 @@ const Login = () => {
          
            
                 <Box  display={'flex'} justifyContent='center'>
-                <Button onClick={handleSubmit} textColor={'#1fa595'} backgroundColor={'white'} type='submit' margin={'20px'}>Login</Button>
+                <Button onClick={handleSubmit} fontFamily='Lobster' textColor={'#1fa595'} backgroundColor={'white'} type='submit' margin={'20px'}>Login</Button>
                 </Box>
                .
         
